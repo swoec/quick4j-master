@@ -1,5 +1,5 @@
 # quick4j
-This is a java web structure intregating essencial elements for developping,especially shiro,
+This is a java web structure integrating essential elements for developping web projects,such as shiro,
 you can download it and develop your own products on this structure directly, save a lot of  precious time.
 
 #### how to use **quick4j**：
