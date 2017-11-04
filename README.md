@@ -30,8 +30,9 @@ you can download it and develop your own products on this structure directly, sa
 * File -> Import -> Existing Maven Projects -> ...
 
 
-## If you have a better suggestion,Please share out,Let's do better.
+## If you have a better suggestion,Please contact me 
+swoec.wang@foxmail.com
 
 ------
-quick4j version 1 is developped by starzhou 
-and this version is modified and optimized by Alex 
+
+
